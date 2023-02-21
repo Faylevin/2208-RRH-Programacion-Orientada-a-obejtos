@@ -1,4 +1,4 @@
-public class Tarea2 {
+public class Tarea2 { //Hecho por Rojas Herrera Ricardo
     public static void main (String[]args){
         String s = "Karl Cientifico Suecia";
         String may = s.toUpperCase();
