@@ -1,4 +1,4 @@
-public class Main { //Hecho por Rojas Herrera Ricardo
+public class Main { //Hecho por Rojas Herrera Ricardo (Tarea1)
     public static void main(String[]args){
         //length
         String s = "Hola";
