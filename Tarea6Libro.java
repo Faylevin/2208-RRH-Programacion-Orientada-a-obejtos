@@ -69,6 +69,7 @@ public class Tarea6Libro {
     public boolean estaDisponible() {
         return true;
     }
+        //public class DriverLibro
     public static void main(String[] args) {
         Tarea6Libro miLibro = new Tarea6Libro("asesinato en el orient express", "Agatha Christie", 1934, 248);
         System.out.println(miLibro);
