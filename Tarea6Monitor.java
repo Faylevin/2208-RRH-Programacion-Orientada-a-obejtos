@@ -79,7 +79,8 @@ public class Tarea6Monitor {
     public boolean esEconomico() {
         return precio <= 200.0;
     }
-
+    
+    // public DriverMonitor
     public static void main(String[] args) {
         Tarea6Monitor monitor1 = new Tarea6Monitor();
         Tarea6Monitor monitor2 = new Tarea6Monitor(27, "Dell", "S2719DGF", "Gamer", 450.0);
