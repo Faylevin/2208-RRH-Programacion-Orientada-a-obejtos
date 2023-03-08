@@ -79,6 +79,8 @@ public class Tarea6Persona {
     public void caminar() {
         System.out.println(this.nombre + " está caminando");
     }
+    
+    //public class DriverPersona
     public static void main(String[] args) {
         Tarea6Persona persona1 = new Tarea6Persona(25, "Pablo", 1.75, 70.5, "Masculino");
         Tarea6Persona persona2 = new Tarea6Persona(70.5/1.75*2);
