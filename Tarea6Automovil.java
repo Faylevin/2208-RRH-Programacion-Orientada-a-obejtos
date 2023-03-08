@@ -84,7 +84,8 @@ public class Tarea6Automovil {
     public boolean esDeMarca(String marca) {
         return this.marca.equalsIgnoreCase(marca);
     }
-
+    
+    // public class DriverAutomovil
     public static void main(String[] args) {
         Tarea6Automovil miAuto = new Tarea6Automovil("Toyota", "Corolla", (byte) 22, Color.RED);
         System.out.println(miAuto);
